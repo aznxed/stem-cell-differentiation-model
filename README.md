@@ -1,7 +1,7 @@
-#Basic Stem Cell Differentiation Model
-##The dynamics of two, undifferentiated and differentiated subpopulations are presented by the sketch:
+# Basic Stem Cell Differentiation Model
+## The dynamics of two, undifferentiated and differentiated subpopulations are presented by the sketch:
 
-![][model.png]
+![][https://raw.githubusercontent.com/aznxed/stem-cell-differentiation-model/master/model.png]
 
 gc, gu, and gd are, respectively, self-renewal rate of undifferentiated cells, differentiation rate, and self-renewal rate of differentiated cells in day-1 units.
 
