@@ -1,5 +1,5 @@
-**Basic Stem Cell Differentiation Model 
-*The dynamics of two, undifferentiated and differentiated subpopulations are presented by the sketch:
+#Basic Stem Cell Differentiation Model
+##The dynamics of two, undifferentiated and differentiated subpopulations are presented by the sketch:
 
 ![][model.png]
 
